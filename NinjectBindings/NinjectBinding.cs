@@ -26,6 +26,9 @@ namespace EventAggregatorConsole.NinjectBindings
             Bind<ISubscriber<PersonEdit>>().To<PersonService>();
 
 
+
+
+
         }
     }
 }
